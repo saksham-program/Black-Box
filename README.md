@@ -2,6 +2,11 @@
 
 Echo Trace is an educational prototype (“Human Black Box”) that demonstrates a personal safety monitoring dashboard. It simulates health vitals, location tracking, an SOS emergency workflow, and basic user settings using a lightweight Node.js + Express backend and a Vanilla JS frontend.
 
+## Author & Ownership
+
+This project was created and owned by **Saksham Jagetiya** as a personal project.  
+All design decisions, feature planning, and implementation direction were defined by the author.
+
 ## Features
 
 - Demo Authentication (Signup/Login) backed by a local JSON file
